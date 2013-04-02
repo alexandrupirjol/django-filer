@@ -50,3 +50,5 @@ See the docs for advanced configuration:
 .. _subject location docs: http://django-filer.readthedocs.org/en/latest/installation.html#subject-location-aware-cropping
 .. _permission docs: http://django-filer.readthedocs.org/en/latest/permissions.html
 .. _secure file downloads docs: http://django-filer.readthedocs.org/en/latest/secure_downloads.html
+
+
